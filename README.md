@@ -1,5 +1,6 @@
 # Assignments for CS4223 Game Programming
 _Dr. Ernst Bekkering - Northeastern State University_
 
-### Quiz Game
-- [x] Version 1 Completed
+### Assignment 2 - Quiz Game
+- [x] Initial version
+- [x] Multiple choice modifications and other enhancements
