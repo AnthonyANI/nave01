@@ -96,7 +96,10 @@
      <Compile Include="Assets\MaterialUI\Scripts\ToggleConfig.cs" />
      <Compile Include="Assets\MaterialUI\Scripts\ToggleTextChanger.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\IntroManager.cs" />
+     <Compile Include="Assets\Scripts\OutroManager.cs" />
      <Compile Include="Assets\Scripts\Question.cs" />
+     <None Include="Assets\Quizzes\JapaneseQuiz.txt" />
      <None Include="Assets\MaterialUI\Fonts\NOTICE.txt" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>E:/Users/Anthony/OneDrive/School/NSU Y2S2/CS4223 Game Programming/nave01/QuizGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

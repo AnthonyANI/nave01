@@ -1,0 +1,20 @@
+What is the Japanese word for "dog"?|いぬ|ねこ|とり|ぶだ|A
+What is the Japanese word for "hello"?|おやすみなさい|さようなら|こんにちは|きょう|C
+How many 'alphabets' does Japanese have?|One|Three|Two|Five|B
+How many characters are in each of the Hiragana and Katakana 'alphabets'?|26|59|46|32|C
+What is the Japanese word for "weather"?|てんき|かぜ|ひ|つき|A
+What is the English word for おはようございます?|Good morning|Good night|Good evening|Good day|A
+What is the English word for くるま?|Bike|Boat|Train|Car|D
+What is the English word for じてんしゃ?|Train|Car|Bike|Boat|C
+What is the Japanese word for "train"?|くるま|じてんしゃ|でんしゃ|ふね|C
+What is the Japanese word for "cat"?|いぬ|ねこ|とり|ぶだ|B
+What is the English word for ねこ?|Dog|Cat|Bird|Pig|B
+What is the English word for ちかてつ?|Train|Subway|Bullet Train|Monorail|B
+What is the English word for こんにちは?|Good morning|Good evening|Hello|Goodbye|C
+What is the Japanese word for "food"?|たべもの|のみもの|きもの|かいもの|A
+What is the Japanese word for "beverage"?|たべもの|のみもの|きもの|かいもの|B
+What is the Japanese word for "sleepy"?|たかい|しずか|せまい|ねむい|D
+What is the Japanese word for "goodbye"?|さようなら|おはようございます|こんばんは|こんにちは|A
+What is the English word for ねむい?|Happy|Quiet|Sad|Sleepy|D
+What is the English word for こんばんは?|Good morning|Goodbye|Hello|Good evening|D
+What is the English word for おやすみなさい?|Goodbye|Hello|Good night|Good morning|C
