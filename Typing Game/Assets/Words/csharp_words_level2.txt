@@ -1,0 +1,17 @@
+float[] floatArray;
+string[] stringArray;
+public void Function()
+private int integerVar;
+private float floatVar;
+public bool Function() { return true; }
+return value;
+public class SomeClass {}
+float someFloat = 2.5f;
+string someString = "string";
+char someChar = 'c';
+using System;
+using System.IO;
+private static string[] stringArray();
+int[] someIntArray;
+public class childClass : parentClass {}
+private string Function() { return "string"; }

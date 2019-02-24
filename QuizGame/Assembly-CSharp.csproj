@@ -102,16 +102,16 @@
      <None Include="Assets\Quizzes\JapaneseQuiz.txt" />
      <None Include="Assets\MaterialUI\Fonts\NOTICE.txt" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>E:/Users/Anthony/OneDrive/School/NSU Y2S2/CS4223 Game Programming/nave01/QuizGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Anthony/OneDrive/School/NSU Y2S2/CS4223 Game Programming/nave01/QuizGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>E:/Users/Anthony/OneDrive/School/NSU Y2S2/CS4223 Game Programming/nave01/QuizGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Anthony/OneDrive/School/NSU Y2S2/CS4223 Game Programming/nave01/QuizGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>E:/Users/Anthony/OneDrive/School/NSU Y2S2/CS4223 Game Programming/nave01/QuizGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Anthony/OneDrive/School/NSU Y2S2/CS4223 Game Programming/nave01/QuizGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>E:/Users/Anthony/OneDrive/School/NSU Y2S2/CS4223 Game Programming/nave01/QuizGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Anthony/OneDrive/School/NSU Y2S2/CS4223 Game Programming/nave01/QuizGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -301,9 +301,6 @@
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="Vuforia.UnityExtensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.GoogleAudioSpatializer">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>
