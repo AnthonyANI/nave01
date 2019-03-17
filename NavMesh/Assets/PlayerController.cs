@@ -49,4 +49,13 @@ public class PlayerController : MonoBehaviour
             }
         }
     }
+
+    void OnCollisionEnter(Collision col)
+    {
+        if (col.gameObject.tag == "powerball")
+        {
+            NavMeshGameController.score += 1;
+            Destroy(col.gameObject);
+        }
+    }
 }

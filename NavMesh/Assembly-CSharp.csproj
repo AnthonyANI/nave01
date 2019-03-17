@@ -56,11 +56,15 @@
      <Compile Include="Assets\Example02 - Obstacles\ObstacleAnimation.cs" />
      <Compile Include="Assets\Example03 - Runtime\LevelGenerator.cs" />
      <Compile Include="Assets\Example05 - LowMan\LowMan\Scripts\ThirdPersonCharacter.cs" />
+     <Compile Include="Assets\IntroManager.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
+     <Compile Include="Assets\NavMeshGameController.cs" />
+     <Compile Include="Assets\OutroController.cs" />
      <Compile Include="Assets\PlayerController.cs" />
+     <Compile Include="Assets\TimerController.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/Anthony/OneDrive/School/NSU Y2S2/CS4223 Game Programming/nave01/NavMesh/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
