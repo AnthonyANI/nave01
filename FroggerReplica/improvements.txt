@@ -1,0 +1,13 @@
+Changed score to wins that don't reset
+Added a timer for gameplay
+Added Hop count
+Added Fail count
+Moved spawn points to edges of roads (outside of camera view)
+Destroyed Car gameObjects once they leaves the Road
+Speed increases as wins increase
+Rotated frog to face the direction it travels
+Prevented frog from leaving the play area
+Added music to gameplay
+Added Intro screen
+Added instructions to intro screen
+Added Outro screen with final scores
