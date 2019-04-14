@@ -13,3 +13,6 @@ _Dr. Ernst Bekkering - Northeastern State University_
 
 ### Assignment 5 - FrogGamePlus
 - [x] Completed
+
+### Assignment 6 - FrogGamePlusV2
+- [x] Completed
