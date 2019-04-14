@@ -1,0 +1,25 @@
+Frogger Improvements:
+
+entry page with instructions
+slider and/or drop down menu for speed of cars
+slider and/or drop  down menu for speed of spawning
+slider and/or drop down menu for size of frog
+slider and/or drop down menu for size of cars
+button to go to next screen
+Next page
+read leading scorers from file
+input of player name inputfield
+display of players' previous scores from data file
+button to go to play screen
+actual game screen
+canvas with
+points in this life
+total points
+lives remaining
+button to confirm another round or quit
+exit page
+write current game data to file
+credits (Brackeys)
+current player's stats for this game
+read all time leading scorers list from file
+Post source program and video on Github as usual.

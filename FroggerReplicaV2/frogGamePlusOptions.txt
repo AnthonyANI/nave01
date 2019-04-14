@@ -1,0 +1,5 @@
+carSize,2
+frogSize,2
+initialCarSpawnSpeed,1
+initialCarSpeed,2
+musicEnabled,True
