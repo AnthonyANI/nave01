@@ -20,15 +20,15 @@ public class Score : MonoBehaviour {
             hopCountText.text = "Hops: " + HopCount.ToString();
     }
 
-    public static void UpdateWins(int valueToAdd = 1, bool resetFails = false)
+    public static void UpdateWins(int valueToAdd = 1, bool resetWins = false)
     {
-        WinCount = resetFails ? 0 : WinCount;
+        WinCount = resetWins ? 0 : WinCount;
         WinCount += valueToAdd;
     }
 
-    public static void UpdateHops(int valueToAdd = 1, bool resetFails = false)
+    public static void UpdateHops(int valueToAdd = 1, bool resetHops = false)
     {
-        HopCount = resetFails ? 0 : HopCount;
+        HopCount = resetHops ? 0 : HopCount;
         HopCount += valueToAdd;
     }
 
